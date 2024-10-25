@@ -1,0 +1,31 @@
+.zagolovok{
+    color: red;
+}
+.zas{
+    color: green;
+}
+.yellou{
+    color:green ;
+    background-color:yellow ;
+    text-align: center;
+}
+.was{
+    background-color: rgb(52, 103, 148);
+    color: white;
+}
+.das{
+    color: white;
+    background-color: green;
+}
+.eds{
+    color: white;
+    background-color:blue ;
+}
+.ntb{
+    color: white;
+    background-color: red;
+}
+.black{
+    color: white;
+    background-color: black;
+}
